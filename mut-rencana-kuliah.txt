@@ -1,7 +1,9 @@
 Rencana Kuliah
 - Codeigniter
   *tamatin video UNPAS
+    ^itu
   *Pahami
 - R Studio
 - TailwindCSS
 - AJAX
+- Bootstrap
