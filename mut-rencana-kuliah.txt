@@ -5,6 +5,6 @@ Rencana Kuliah
     ^ini
   *Pahami
 - R Studio
+ * data scientist
 - TailwindCSS
-- AJAX
 - Bootstrap
