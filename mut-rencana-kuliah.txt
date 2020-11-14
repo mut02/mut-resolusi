@@ -1,7 +1,9 @@
 Rencana Kuliah
 - Codeigniter
   *tamatin video UNPAS
+    ^apa ya
+    ^ini
   *Pahami
 - R Studio
+ * data scientist
 - TailwindCSS
-- AJAX
