@@ -1,9 +1,10 @@
 Rencana Kuliah
 - Codeigniter
   *tamatin video UNPAS
-    ^apa ya
+    ^itu
     ^ini
   *Pahami
 - R Studio
  * data scientist
 - TailwindCSS
+- Bootstrap
